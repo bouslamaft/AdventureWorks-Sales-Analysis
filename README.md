@@ -29,7 +29,6 @@ This project involves analyzing sales data from the AdventureWorks database, a s
 /sql_queries # SQL scripts for creating tables and extracting data
 
 /docs # Additional documentation and resources
-
-/images # Screenshots of the dashboards and visualizations
+      # Screenshots of the dashboards and visualizations
 
 README.md
